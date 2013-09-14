@@ -1,0 +1,57 @@
+/*My customised styles*/
+
+body
+{
+
+        /*border:1px dashed green;*/
+        right:0;
+        left:0;
+        margin-right: -20px;
+}
+
+.banner
+{       /*border:1px dashed blue;*/
+        background-image: url('../img/android.png');
+        margin-top: 40px;
+        padding-bottom:0px;
+        height:400px;
+
+}
+
+.row 
+{      /* border:1px dashed yellow;*/
+        margin-right: 0px;
+        margin-left: 0px;
+}
+
+blockquote
+{       
+        text-align: left;
+        margin-top:40px;
+        color: #f9f9f9;
+
+}
+
+.intro
+{     
+        min-height: 400px;
+        border-bottom: 1px solid #e5e5e5;
+        margin-bottom:10px;
+}
+
+
+.modal-footer 
+{       
+        margin-top:20px;
+        margin-bottom:0px;
+        text-align: left;
+        border-top: 1px solid #e5e5e5;
+}  
+
+
+footer
+{
+       /* border:1px dashed #f9a3c5;*/
+        background-color:#303030;
+        color: #f9f9f9;
+}
