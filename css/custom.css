@@ -1,4 +1,13 @@
 /*My customised styles*/
+a
+{
+
+        color: #f9f9f9;
+}
+a:hover
+{
+        text-decoration: none;
+}
 
 body
 {
@@ -8,7 +17,7 @@ body
 }
 
 .banner
-{       /*border:1px dashed blue;*/
+{       
         background-image: url('../img/awe.jpg');
         margin-top: 40px;
         padding-bottom:0px;
@@ -16,8 +25,11 @@ body
 
 }
 
+
+
+
 .row 
-{      /* border:1px dashed yellow;*/
+{      
         margin-right: 0px;
         margin-left: 0px;
 }
